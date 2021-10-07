@@ -4,7 +4,7 @@ Junior full stack web developer with a strong background in community and progra
 
 Skills: JAVASCRIPT / REACT / HTML / CSS
 
-- 🌱 I’m currently learning Ant Design, Sass, CSS Grid 
+- 🌱 I’m currently learning TypeScript & NextJS
 - 📫 How to reach me: meb601@gmail.com 
 - 😄 Pronouns: She/her/hers 
 - ⚡ Fun fact: I speak intermediate Spanish 
