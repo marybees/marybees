@@ -1,11 +1,10 @@
 ### Hi there 👋, my name is Mary
 #### I'm a Full Stack Web Developer, with a passion for frontend design and strong interest in React development.
-Junior full stack web developer with a strong background in community and program management, specializing in developer marketing, business operations and engineering partnership to achieve organizational objectives. 8 years of experience working in tech alongside software developers. Remote global team experience with exceptional intercultural and cross-team collaboration skills. 
+Full stack web developer with a strong background in community and program management, specializing in developer marketing, business operations and engineering partnership to achieve organizational objectives. 8 years of experience working in tech alongside software developers. Remote global team experience with exceptional intercultural and cross-team collaboration skills. 
 
 Skills: JAVASCRIPT / REACT / HTML / CSS
 
 - 🌱 I’m currently learning TypeScript & NextJS
-- 📫 How to reach me: meb601@gmail.com 
 - 😄 Pronouns: She/her/hers 
 - ⚡ Fun fact: I speak intermediate Spanish 
 
